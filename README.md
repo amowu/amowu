@@ -10,6 +10,5 @@
 - Blog https://blog.amowu.com
 - Twitter https://twitter.com/amo_wu
 - LinkedIn https://linkedin.com/in/amowu
-- 豆瓣 https://www.douban.com/people/amowu/
 
 [Ask me anything!](https://github.com/amowu/amowu/issues/new)
