@@ -6,7 +6,7 @@
 
 ### About me
 
-- Website https://amowu.com
+- Website [https://amowu.com](https://www.amowu.com/idontwannaseeyourresume)
 - Blog https://blog.amowu.com
 - Twitter https://twitter.com/amo_wu
 - LinkedIn https://linkedin.com/in/amowu
